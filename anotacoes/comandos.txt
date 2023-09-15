@@ -2,4 +2,5 @@ git init - Inicializando um repositório git
 git status - Verificar status do repositório
 git add - Adiciona arquivos no rastreamento
 git add . - Adiciona todos os arquivos no rastreamento
-alterado
+git commit -m - comentar as modificações
+git push - enviar para github
